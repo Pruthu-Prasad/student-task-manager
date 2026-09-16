@@ -1,9 +1,9 @@
 # Student Task Manager
 ## Project Status
 
-This project is actively maintained by the team.
+This project is actively maintained by the team and contributors.
 
-A tiny Python project for practicing Git and GitHub.
+A tiny Python project for practicing Git and GitHub contributions.
 
 ## Run
 
