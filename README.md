@@ -1,7 +1,7 @@
 # Student Task Manager
 ## Project Status
 
-This project is under active development.
+This project is actively maintained by the team.
 
 A tiny Python project for practicing Git and GitHub.
 
