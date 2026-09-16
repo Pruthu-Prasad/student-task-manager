@@ -3,7 +3,7 @@
 
 This project is actively maintained by the team.
 
-A tiny Python project for practicing Git and GitHub.
+A tiny Python project for practicing Git and GitHub contributions.
 
 ## Run
 
